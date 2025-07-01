@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Workout Counter", "Workout Counter\Workout Counter.pyproj", "{BD2549C5-4DAC-41E0-A8F9-F7C584AB2A67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD2549C5-4DAC-41E0-A8F9-F7C584AB2A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2549C5-4DAC-41E0-A8F9-F7C584AB2A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C0841DF-C7E9-4050-B002-992AA0CD53AA}
+	EndGlobalSection
+EndGlobal
